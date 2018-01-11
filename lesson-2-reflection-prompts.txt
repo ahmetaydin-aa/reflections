@@ -37,7 +37,9 @@ It helps me to understand the structure of branching.
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
-
+The result of merging two branches together is using both of these branches features
+together in just one unified branch. Because of that we represented it in the diagram
+the way we did.
 
 What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
